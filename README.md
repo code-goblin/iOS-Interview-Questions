@@ -1,9 +1,3 @@
-# Hello fellow iOS Developers!
-
-## What is this for?
-
-Time is important. It's frustrating and time-consuming to have to search endlessly in order to practice iOS interview questions. The goal of this open-source project is to collect as many iOS interview questions together along with answers in order to save you time.
-
 ## Practice
 
 Use the Table of Contents to practice and test your knowledge. It doesn't show the answer so you'll be able to go over the questions without relying on the answer for help.
